@@ -11,5 +11,4 @@ outputs:
 runs:
   using: 'node12'
   main: 'index.js'
-  env: 
-    Test: '1111'
+
